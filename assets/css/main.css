@@ -8838,7 +8838,7 @@ body.is-preload .items.onload-fade-in>*>.inner {
 	position: relative;
 	margin-top: 2rem;
 	margin-bottom: 3rem;
-	padding: 50px 0;
+	padding: 70px 0;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -8962,4 +8962,21 @@ body.is-preload .items.onload-fade-in>*>.inner {
 /* spacing */
 .wrapper .timeline-pro {
 	margin: 120px 0;
+}
+
+#contact {
+	padding: 2rem 0;
+}
+
+#contact .inner {
+	padding: 0.5rem 0;
+}
+
+#contact textarea {
+	height: 120px;
+}
+
+#footer {
+	margin-top: 0.5rem;
+	padding: 0.5rem 0;
 }
